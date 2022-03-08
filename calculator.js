@@ -70,6 +70,8 @@ function createResultString(key, displayedNum, state) {
 			: displayedNum;
 	}
 
+	// git test...
+
 	// handle clear button (AC or CE)
 	if (action === CLEAR) {
 		return 0;
